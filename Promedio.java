@@ -1,4 +1,4 @@
-public class Prom{
+public class Promedio{
     public static void main(String args[]){
    
     int mate = 8 ;
